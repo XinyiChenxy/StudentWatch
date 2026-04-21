@@ -18,7 +18,7 @@ The experiments in this study are conducted based on a unified repository design
 │   ├── README.md            # Detailed instructions for this module
 │   └── yolov5_CBAM/         # Training scripts and configurations
 └── YOLO26/                  # Extended experiments for future comparison
-    ├── Dockerfile           # Environment for yolo26 experiments
+    ├── Dockerfile           # Environment for YOLO26 experiments
     └── README.md            # Detailed instructions for this module
 ```
 
