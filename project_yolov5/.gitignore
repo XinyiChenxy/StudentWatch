@@ -1,0 +1,33 @@
+# datasets
+dataset/
+datasets/
+*.zip
+*.tar
+*.gz
+
+# weights
+*.pt
+*.pth
+weights/
+
+# training outputs
+runs/
+results/
+exp/
+.cometml-runs/
+*.cache
+
+# logs
+nohup.out
+*.out
+*.log
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# env
+.env
+venv/
+.venv/

@@ -1,0 +1,15 @@
+path: /workspace/dl_project/project_yolov5/dataset/yolov5/sb
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 6
+
+names:
+  0: bowing_the_head
+  1: hand_raising
+  2: learning_over_the_table
+  3: reading
+  4: using_phone
+  5: writing

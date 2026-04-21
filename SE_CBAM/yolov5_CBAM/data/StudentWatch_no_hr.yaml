@@ -1,0 +1,14 @@
+path: /workspace/dl_project/SE_CBAM/dataset/sb_no_hr
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 5
+
+names:
+  0: bowing_the_head
+  1: learning_over_the_table
+  2: reading
+  3: using_phone
+  4: writing

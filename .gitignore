@@ -1,0 +1,41 @@
+# local/editor
+.codex
+.env
+venv/
+.venv/
+
+# python/cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.cache
+
+# datasets and archives
+dataset/
+datasets/
+*.zip
+*.tar
+*.gz
+
+# model weights/checkpoints
+*.pt
+*.pth
+*.onnx
+weights/
+
+# training/evaluation outputs
+runs/
+results/
+exp/
+.cometml-runs/
+
+# logs
+logs/
+run_logs/
+nohup.out
+*.out
+*.log
+
+# uploaded runtime files
+**/uploads/original/*
+**/uploads/results/*
