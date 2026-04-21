@@ -56,7 +56,7 @@ The YOLOv5-based modules, including `project_yolov5` and `SE_CBAM`, use the same
 project_yolov5/Dockerfile
 ```
 
-The `yolo26` module provides its own Dockerfile because it uses a separate environment.
+The `YOLO26` module provides its own Dockerfile because it uses a separate environment.
 
 ## Documentation
 
@@ -64,6 +64,6 @@ Each sub-project provides its own README with detailed usage instructions:
 
 - `project_yolov5/README.md`
 - `SE_CBAM/README.md`
-- `yolo26/README.md`
+- `YOLO26/README.md`
 
 Please refer to the corresponding README before running experiments in each module.
