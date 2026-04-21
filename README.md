@@ -17,7 +17,7 @@ The experiments in this study are conducted based on a unified repository design
 ├── SE_CBAM/                 # SE and CBAM attention comparison experiments
 │   ├── README.md            # Detailed instructions for this module
 │   └── yolov5_CBAM/         # Training scripts and configurations
-└── yolo26/                  # Extended experiments for future comparison
+└── YOLO26/                  # Extended experiments for future comparison
     ├── Dockerfile           # Environment for yolo26 experiments
     └── README.md            # Detailed instructions for this module
 ```
@@ -44,9 +44,9 @@ See `project_yolov5/README.md` for detailed environment setup, dataset preparati
 
 This module uses the same YOLOv5-based environment as `project_yolov5`. See `SE_CBAM/README.md` for detailed instructions, configurations, and reproducibility notes.
 
-### yolo26
+### YOLO26
 
-`yolo26` is reserved for extended experiments and future comparison. Unlike the YOLOv5-based modules, it provides its own Dockerfile and environment setup. See `yolo26/README.md` for details when working with this module.
+`YOLO26` is reserved for extended experiments and future comparison. Unlike the YOLOv5-based modules, it provides its own Dockerfile and environment setup. See `YOLO26/README.md` for details when working with this module.
 
 ## Environment Notes
 
